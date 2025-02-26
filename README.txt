@@ -5,3 +5,4 @@ La langue inventée s'appelle l'Ancien Kamorien, c'est à destination d'histoire
 Compiler : javac .\main.java
 
 Lancer : java Main output
+Les traductions seront directement ajoutés au fichier texte output.txt
